@@ -14,3 +14,5 @@ image: img/clock.png
 ---
 
 This project is a browser-based clock application that displays the current time and updates continuously using the day.js library. I built it using standard web technologies (HTML, CSS, and JavaScript) and day.js to handle date/time formatting and updates accurately. Creating this clock helped me deepen my understanding of DOM manipulation, working with external libraries, and keeping time-based UI elements in sync efficiently in the browser. This project is a compact but practical example of integrating third-party libraries into a web interface.
+
+Repo: https://github.com/rystuckey/clock
