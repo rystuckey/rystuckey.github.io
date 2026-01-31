@@ -2,14 +2,13 @@
 layout: essay
 type: essay
 title: "Why I Do What I Do"
+# All dates must be YYYY-MM-DD format!
 date: 2026-01-29
 published: true
 labels:
   - Interests
   - Skills
 ---
-
->
 
 *Everyone has to start somewhere, and this is where it starts for me.*
 
