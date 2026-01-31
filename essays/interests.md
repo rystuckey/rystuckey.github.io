@@ -1,7 +1,7 @@
---
+---
 layout: essay
 type: essay
-title: "Why I Do What I Do"
+title: "Why I do What I do"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
 published: true
