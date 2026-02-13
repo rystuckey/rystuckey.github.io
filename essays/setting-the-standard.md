@@ -11,7 +11,7 @@ labels:
   - TypeScript
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="800px" src="../img/eslint.png">
 
 Coding standards seem like just another set of rules, but in a field like software engineering and programming where everything has its own ruleset, coding standards provide a way for us to give our code structure and readability.
 
