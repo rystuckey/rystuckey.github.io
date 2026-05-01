@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/project.png">
+<img width="800px" src="../img/project.png">
 
 ## The Structure of Software Engineering
 
