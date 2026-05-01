@@ -11,6 +11,8 @@ labels:
 
 <img width="800px" class="rounded float-start pe-4" src="../img/project.png">
 
+
+
 Before learning about design patterns, I main thought about software as something designed with similar structure, just using different tools to get the job done.  In a way I wasn't fully wrong.  Design patterns helped me realize that there is another layer behind the structure we see. 
 
 A design pattern is a reusable solution to a common software design problem. It is a set of rules and a proven way of organizing code so that the project stays understandable as it grows. In my final project, this matters because the app is developed in a way that makes it more than just a static website. Our project, Manoa CourseWise has course information, reviews, users, search features, and database interactions. Design patterns are the structure that holds it all together.
