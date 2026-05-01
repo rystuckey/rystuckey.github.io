@@ -11,7 +11,7 @@ labels:
 
 <img width="800px" class="rounded float-start pe-4" src="../img/project.png">
 
-
+## The Structure of Software Engineering
 
 Before learning about design patterns, I main thought about software as something designed with similar structure, just using different tools to get the job done.  In a way I wasn't fully wrong.  Design patterns helped me realize that there is another layer behind the structure we see. 
 
