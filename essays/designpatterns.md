@@ -17,8 +17,6 @@ Before learning about design patterns, I main thought about software as somethin
 
 A design pattern is a reusable solution to a common software design problem. It is a set of rules and a proven way of organizing code so that the project stays understandable as it grows. In my final project, this matters because the app is developed in a way that makes it more than just a static website. Our project, Manoa CourseWise has course information, reviews, users, search features, and database interactions. Design patterns are the structure that holds it all together.
 
-The main design pattern that appea
-
 ## Research on Design Patterns
 
 I did my own further research design patterns on what design patterns exist, and I started to understand them as ways to recognize structure in software. At first, I thought design patterns sounded like abstract vocabulary that was used to describe things such as CSS styles and other choices on styles. However, once I started connecting them to my own final project, they became easier to understand. However, I noticed they are used in a different context.
