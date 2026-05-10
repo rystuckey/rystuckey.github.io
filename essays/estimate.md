@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Estimating for Final Project"
 # All dates must be YYYY-MM-DD format!
-date: 2026-05-04
+date: 2026-05-09
 published: true
 labels:
   - Effort Estimation
