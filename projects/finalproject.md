@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/soft.jpg
+image: img/project2.jpg
 title: "Manoa CourseWise"
 date: 5/9/26
 published: True
@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for ICS 314."
 ---
 
-<img style="width: 300px height: 300px object-fit: cover" src=../img/soft.jpg>
+<img style="width: 300px height: 300px object-fit: cover" src=../img/project2.jpg>
 
 # Manoa CourseWise
 
