@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project.png
+image: img/soft.jpg
 title: "Manoa CourseWise"
 date: 5/9/26
 published: True
