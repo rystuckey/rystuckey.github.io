@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for ICS 314."
 ---
 
-<img style="width: 300px; height: 300px; object-fit: cover src="../img/soft.png>
+<img style="width: 300px; height: 300px; object-fit: cover src="../img/soft.jpg>
 
 # Manoa CourseWise
 
