@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Effort Estimating for Final Project"
+title: "Software Engineering Beyond Web Application Development"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-09
 published: true
