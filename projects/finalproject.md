@@ -6,12 +6,12 @@ title: "Manoa CourseWise"
 date: 5/9/26
 published: True
 labels:
-  - Lisp
-  - GitHub
+  - React
+  - Next.js
 summary: "Final Project for ICS 314."
 ---
 
-<img src="../img/project.png>
+<img style="width: 300px; height: 300px; object-fit: cover src="../img/project.png>
 
 # Manoa CourseWise
 
