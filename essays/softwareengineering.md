@@ -12,8 +12,6 @@ labels:
 ---
 <img width="300px" src="../img/soft.jpg">
 
-# Software Engineering Beyond Web Development
-
 ## More Than Building Web Pages
 
 When I first started ICS 314, I thought that it was a course that taught us web development and front end development. A lot of the assignments we started with involved tools like React, Next.js, TypeScript, Bootstrap, etc.  These are all standard for web development.  Because of that, I first thought that the main goal of the course was just learning how to build web pages and deploy applications.  However, after working through the course and completing the final project, I realized that software engineering goes much further than just web development.
@@ -52,6 +50,6 @@ Coding standards were also important in our project. We used tools such as ESLin
 
 ICS 314 taught me that software engineering is much broader than web development.  We may have used tools such as React, Next.js, Bootstrap, Prisma, GitHub, and Vercel, but the main lessons were about how to build software in a structured and maintainable way.  The final project made this clear because creating a working application required more than writing pages. It required planning, teamwork, configuration, standards, and design decisions.
 
-Topics such as gile project management, configuration management and development environments, and design patterns and coding standards are useful beyond web applications because every serious software project needs organization, reliable setup, and maintainable code.  I now know that software projects are not just isolated coding tasks, but they are systems that need to be planned, built, tested, deployed, and maintained over time.
+Topics such as agile project management, configuration management and development environments, and design patterns and coding standards are useful beyond web applications because every serious software project needs organization, reliable setup, and maintainable code.  I now know that software projects are not just isolated coding tasks, but they are systems that need to be planned, built, tested, deployed, and maintained over time.
 
 AI Note: ChatGPT 5.5 was used for assistance in creating this essay, ranging from generating and suggesting structure, sample drafts and ideas on what to write, and what concepts should be discussed.
