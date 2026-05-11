@@ -18,4 +18,4 @@ This project is a recreation of the classic Snake game similar to the version po
 
 Through this project, I practiced real-time rendering on a canvas, managing game state with arrays, detecting collisions with both walls and the snake’s own body, and generating random objects that must avoid existing game elements. Although simple in concept, this project helped me better understand how interactive browser applications work behind the scenes and how game logic can be implemented without any external libraries.
 
-Repo: https://github.com/rystuckey/snake
+[GitHub Repo](https://github.com/rystuckey/snake)
