@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img src = "img/ai.jpg">
+<img src = "../img/ai.jpg">
 
 ## I. Introduction
 
