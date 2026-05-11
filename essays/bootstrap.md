@@ -20,13 +20,13 @@ Bootstrap plays a similar role that TailwindCSS does, but it also has some diffe
 
 ## Usage of Bootstrap
 
-Bootstrap contains many standard elements that have been premade and ready for developers to put directly in their code.  Many elements, such as their navbar, whould be tedious to make without Bootstrap every time, so it is very useful to have reusable code ready for use in any project.  
+Bootstrap contains many standard elements that have been premade and ready for developers to put directly in their code.  Many elements, such as their navbar, would be tedious to make without Bootstrap every time, so it is very useful to have reusable code ready for use in any project.  
 
-Bootstrap's ability to have inline styles, meaning that CSS can be written within HTML and interpreted into CSS styles through Bootstrap.  The styles that are written inline take precedence over any stylesheet styles, meaning that even if an element is styled through a class, any styles that are written inline will take precedence over that.  
+Bootstrap allows us to write styles within HTML which is interpreted into CSS styles through Bootstrap.  The styles that are written inline take precedence over any stylesheet styles, meaning that even if an element is styled through a class, any styles that are written inline will take precedence over that.  
 
 In this class, it is very useful to have the ability to reuse their prewritten components and templates so that projects can be completed faster and with ease.  It is difficult and tedious to have to rewrite every simple element that you create, which is why it is very helpful to have a framework such as Bootstrap.
 
-The framework is simple enough for beginners to pick up and get started with, but there is so much that the framwork can do that I believe that I still have not yet mastered Bootstrap and there are still many more things to learn.  In programming there will always be new technologies and ways of doing things, but it is difficult to memorize all of them, so it is beneficial to use frameworks like Bootstrap and look up documentation for what we need for our code.
+The framework is simple enough for beginners to pick up and get started with, but there is so much that the framework can do that I believe that I still have not yet mastered Bootstrap and there are still many more things to learn.  In programming there will always be new technologies and ways of doing things, but it is difficult to memorize all of them, so it is beneficial to use frameworks like Bootstrap and look up documentation for what we need for our code.
 
 ## Your Choice Assignment
 
