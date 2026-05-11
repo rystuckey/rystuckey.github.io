@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for ICS 314."
 ---
 
-<img style="width: 300px height: 300px object-fit: cover" src=../img/project2.jpg>
+<img src=../img/project3.jpg>
 
 # Manoa CourseWise
 
@@ -25,5 +25,5 @@ One of the biggest things I learned from this project is that a working software
 
 This project also helped me understand team-based software engineering more clearly. Since multiple people were working on different features, we had to divide the project into GitHub issues, coordinate who was responsible for each part, and make sure our work fit together. The project made concepts like issue-driven project management, coding standards, configuration management, and deployment feel much more practical. By the end, I had a stronger understanding of how a full-stack web application is planned, implemented, deployed, and maintained.
 
-Source code: https://github.com/manoa-coursewise/manoa-course-wise  
-Deployed application: https://manoa-course-wise.vercel.app/
+[Source code](https://github.com/manoa-coursewise/manoa-course-wise)  
+[Deployed application](https://manoa-course-wise.vercel.app/)
