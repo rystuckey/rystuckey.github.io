@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Future of Writing Code"
+title: "AI as a Software Engineering Tool"
 date: 2026-05-10
 published: true
 labels:
@@ -10,6 +10,8 @@ labels:
   - GitHub Copilot
   - Software Engineering
 ---
+
+<img src = "img/ai.jpg">
 
 ## I. Introduction
 
