@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for ICS 314."
 ---
 
-<img src=../img/project3.jpg>
+<img src=../img/project4.jpg>
 
 # Manoa CourseWise
 
