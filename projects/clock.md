@@ -18,4 +18,4 @@ This project is a browser-based clock application that displays the current time
 
 In building this clock, I practiced manipulating the DOM directly and learned how to create a reliable update loop that refreshes the display every second without overwhelming the browser. I also gained experience balancing external library use with vanilla JavaScript, and day.js offered convenience without adding unnecessary complexity. This project strengthened my understanding of time-based applications and how they maintain synchronization between data and presentation in a user interface.
 
-Repo: https://github.com/rystuckey/clock
+[GitHub Repo](https://github.com/rystuckey/clock)
