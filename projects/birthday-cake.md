@@ -17,4 +17,4 @@ This project began as a creative exercise in building an interactive user interf
 
 Beyond the basics of rendering static content, this project taught me how to handle user input and update the UI responsively. Managing state in React was a valuable lesson, especially in a scenario where multiple components depend on shared values. I also learned how Tailwind simplifies styling by applying utility classes directly within markup, reducing the need to maintain large CSS files. Overall, this project strengthened my confidence in building responsive, interactive web applications with modern frameworks.
 
-Repo: https://github.com/rystuckey/cake
+[GitHub Repo](https://github.com/rystuckey/cake)
